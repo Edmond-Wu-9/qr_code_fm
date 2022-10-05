@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Using HTML5 and CSS, I created a QR code page that displays the QR code that leads to FrontEnd Mentor. As a newbie project, this is perfect as it uses simple HTML and CSS. It allowed me to understand what every specific custom CSS property did and it help reinforce the use of both HTML and CSS.
 
 ### Screenshot
-![](./images/image-qr-code.png)
+![](./images/finished_sc.png)
 
 
 ### Links
