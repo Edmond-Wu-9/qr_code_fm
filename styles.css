@@ -34,12 +34,12 @@ body{
     border-radius: 0.8rem;
     box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
     margin-bottom: 1rem;
+    max-width: 320px;
 }
 
 .container img{
     border-radius: 0.8rem;
-    width: 400px;
-    height: auto;
+    width: 100%;
 }
 
 .container h1{
@@ -52,8 +52,3 @@ body{
     text-align: center;
 }
 
-@media (min-width:500px){
-    .container{
-        width: 400px;
-    }
-}
